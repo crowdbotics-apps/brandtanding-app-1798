@@ -1,0 +1,3 @@
+rootProject.name = 'brandtanding_app_1798'
+
+include ':app'
